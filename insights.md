@@ -30,13 +30,6 @@ Investigate escalated support cases.
 Evaluate retention initiatives and measure their outcomes.
 Track churn rates across customer segments over time.
 
-4. Limitations
-
-The initial export contains only 21 customer records.
-Small sample sizes limit the reliability of comparisons.
-Missing support and cancellation information may affect results.
-Observed associations do not establish causation.
-Findings require validation against the source database.
 
 5. Conclusion
 
