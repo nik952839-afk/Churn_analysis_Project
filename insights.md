@@ -8,14 +8,17 @@ The objective is to turn customer and subscription data into actionable recommen
 2. Key Findings
 
 Finding 1: Churn by Subscription Plan
+
 The preliminary analysis suggests that the Basic subscription plan has a higher observed churn rate than the Standard and Premium plans.
 Business implication: Investigate pricing, customer expectations, service quality, and plan benefits before deciding on retention actions.
 
 Finding 2: Churn by Contract Type
+
 The preliminary analysis suggests that customers with monthly contracts have a higher observed churn rate than customers with annual contracts.
 Business implication: Examine whether contract flexibility, customer tenure, or differences in customer characteristics help explain this pattern.
 
 Finding 3: Customer Support
+
 Support escalations may be associated with customer churn.
 Business implication: Investigate escalated complaints, resolution times, and recurring support issues to identify potential improvements.
 
